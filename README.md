@@ -8,7 +8,7 @@ By participating in this workshop, you’ll:
 
 •	Gain experience with common deep learning model such as Yolo, GoogleNet, MobileNet, ResNet and Generative Adversarial Network.
 
-•	Learn to train a deep learning model for any use case (i.e, detect and recognize traffic on Pakistan Motorways) from start to end.
+•	Learn to train a deep learning model for any use case (i.e, detect and recognize traffic on Highways) from start to end.
 
 •	Leverage transfer learning between models to achieve efficient results with less data and computation.
 
