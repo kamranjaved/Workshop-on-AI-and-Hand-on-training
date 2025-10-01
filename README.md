@@ -56,7 +56,7 @@ This workshop is designed to provide both **conceptual understanding** and **pra
 
 ### 🔹 Example Output (Traffic Detection)
 <p align="center">
-  <img src="images/tra.ffic_detection.png" alt="Traffic Detection Example" width="600"/>
+  <img src="images/traffic_detection.png" alt="Traffic Detection Example" width="600"/>
 </p>
 
 ---
