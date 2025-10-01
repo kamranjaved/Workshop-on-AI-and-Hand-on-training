@@ -22,6 +22,4 @@ NCAI
 SDAIA
 
 
-<img src="images/logo.png" alt="Logo" width="200"/>
-
-<img src="images/logo2.png" alt="Logo" width="200"/>
+<img src="images/logo.png" alt="Logo" width="200"/>                   <img src="images/logo2.png" alt="Logo" width="200"/>
