@@ -54,6 +54,11 @@ This workshop is designed to provide both **conceptual understanding** and **pra
   <img src="images/training_loss.png" alt="Training Loss" width="500"/>
 </p>
 
+### 🔹 Example Output (Digit Recognition)
+<p align="center">
+  <img src="images/mnist.png" alt="Traffic Detection Example" width="600"/>
+</p>
+
 ### 🔹 Example Output (Traffic Detection)
 <p align="center">
   <img src="images/traffic_detection.png" alt="Traffic Detection Example" width="600"/>
