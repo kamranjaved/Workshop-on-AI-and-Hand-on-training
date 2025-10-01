@@ -1,4 +1,4 @@
-# **Hands-on for AI Fundamentals Training at NCAI SDAIA**
+# **Hands-on for AI Fundamentals Training at SDAIA (NCAI)**
 # *CIFAR-10 Image Classification using kNN*
 
 Performed k-Nearest neighbours clustering algorithm on the CiFAR-10 dataset to classify test images. Also performed k-fold cross validation to find the best value of the 'k' hyper parameter and best accuracy on the dataset.
