@@ -1,25 +1,46 @@
-# **Hands-on for AI Fundamentals Training at SDAIA (NCAI)**
-# *CIFAR-10 Image Classification using kNN*
+# 🤖 **Hands-on AI Fundamentals Training @ SDAIA (NCAI)**  
+### 📌 *CIFAR-10 Image Classification using kNN*
 
-Performed k-Nearest neighbours clustering algorithm on the CiFAR-10 dataset to classify test images. Also performed k-fold cross validation to find the best value of the 'k' hyper parameter and best accuracy on the dataset.
+---
 
-## **Requirements**
-numpy
-matplotlib
-Python version 3.5 or later 
+## 🔍 **Overview**
+This project applies the **k-Nearest Neighbors (kNN)** algorithm on the **CIFAR-10 dataset** to classify test images.  
+We also performed **k-fold cross-validation** to determine the optimal value of the hyperparameter **k** and to evaluate the overall accuracy.
 
+---
 
-## **Results**
-The dataset was subsampled to prevent memory issues and only 10000 training samples and 1000 testing sampleds were used; the results from k-NN classification are:
-- Best k = 10 
-- Accuracy = 57%
+## ⚙️ **Requirements**
+- 🐍 Python **3.5+**  
+- 📦 `numpy`  
+- 📊 `matplotlib`
 
+---
 
-## **Presented By**
+## 📈 **Results**
+The dataset was **subsampled** (10,000 training samples + 1,000 testing samples) to reduce memory usage.  
+The **best performance** from k-NN classification was:  
 
-Dr. Kamran Javed
-NCAI
-SDAIA
+- ✅ Best **k** = `10`  
+- 🎯 Accuracy = **57%**
 
+---
 
-<img src="images/logo.png" alt="Logo" width="200"/>                   <img src="images/logo2.png" alt="Logo" width="200"/>
+## 👨‍🏫 **Presented By**
+**Dr. Kamran Javed**
+
+---
+
+## 🏷️ **Affiliations**
+<p align="center">
+  <img src="images/logo.png" alt="Logo" width="200"/> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="images/logo2.png" alt="Logo" width="200"/>
+</p>
+
+---
+
+## 📷 **Sample CIFAR-10 Images**
+*(Optional: Add this if you want to showcase the dataset visually)*  
+
+<p align="center">
+  <img src="images/cifar10_samples.png" alt="CIFAR-10 Samples" width="500"/>
+</p>
