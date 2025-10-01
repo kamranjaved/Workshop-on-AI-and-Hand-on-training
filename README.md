@@ -1,15 +1,23 @@
-# Workshop on AI and Hand on training
+# **Hands-on Tutorial**
 
-By participating in this workshop, you’ll:
+# **CIFAR-10 Image Classification using kNN**
 
-•	Learn the introduction of AI and Deep learning and their basic building blocks. 
+Performed k-Nearest neighbours clustering algorithm on the CiFAR-10 dataset to classify test images. Also performed k-fold cross validation to find the best value of the 'k' hyper parameter and best accuracy on the dataset.
 
-•	Understand the famous Neural Networks architectures like Artificial Neural Network, Convolutional Neural Network and Recurrent Neural Networks.
+## **Requirements**
+numpy
+matplotlib
+Python version 3.5 or later 
 
-•	Gain experience with common deep learning model such as Yolo, GoogleNet, MobileNet, ResNet and Generative Adversarial Network.
 
-•	Learn to train a deep learning model for any use case (i.e, detect and recognize traffic on Highways) from start to end.
+## **Results**
+The dataset was subsampled to prevent memory issues and only 10000 training samples and 1000 testing sampleds were used; the results from k-NN classification are:
+- Best k = 10 
+- Accuracy = 57%
 
-•	Leverage transfer learning between models to achieve efficient results with less data and computation.
 
-•	Build confidence to take on your own project with a modern deep learning framework
+## **Presented By**
+
+DR Kamran Javed
+NCAI
+SDAIA
