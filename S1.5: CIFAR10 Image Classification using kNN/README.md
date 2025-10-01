@@ -1,4 +1,4 @@
-# **Hands-on Tutorial for AI Fundamentals Training at NCAi SDAIA**
+# **Hands-on for AI Fundamentals Training at NCAI SDAIA**
 
 # **CIFAR-10 Image Classification using kNN**
 
