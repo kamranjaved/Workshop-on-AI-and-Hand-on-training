@@ -20,3 +20,4 @@ The dataset was subsampled to prevent memory issues and only 10000 training samp
 Dr. Kamran Javed
 NCAI
 SDAIA
+![Logo](images/logo.png)
