@@ -25,6 +25,15 @@ The **best performance** from k-NN classification was:
 
 ---
 
+## 📷 **Sample CIFAR-10 Images**
+*(Few samples from each class of CIFAR-10 dataset)*  
+
+<p align="center">
+  <img src="images/cifar10_samples.png" alt="CIFAR-10 Samples" width="500"/>
+</p>
+
+---
+
 ## 👨‍🏫 **Presented By**
 **Dr. Kamran Javed**
 
@@ -36,11 +45,3 @@ The **best performance** from k-NN classification was:
   <img src="images/logo2.png" alt="Logo" width="200"/>
 </p>
 
----
-
-## 📷 **Sample CIFAR-10 Images**
-*(Optional: Add this if you want to showcase the dataset visually)*  
-
-<p align="center">
-  <img src="images/cifar10_samples.png" alt="CIFAR-10 Samples" width="500"/>
-</p>
