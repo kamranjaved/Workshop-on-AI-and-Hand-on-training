@@ -59,6 +59,11 @@ This workshop is designed to provide both **conceptual understanding** and **pra
   <img src="images/traffic_detection.png" alt="Traffic Detection Example" width="600"/>
 </p>
 
+### 🔹 Example Output (Image Generation using GAN)
+<p align="center">
+  <img src="images/gan.png" alt="Traffic Detection Example" width="600"/>
+</p>
+
 ---
 
 ## 👨‍🏫 **Instructor**
