@@ -17,6 +17,6 @@ The dataset was subsampled to prevent memory issues and only 10000 training samp
 
 ## **Presented By**
 
-DR Kamran Javed
+Dr. Kamran Javed
 NCAI
 SDAIA
