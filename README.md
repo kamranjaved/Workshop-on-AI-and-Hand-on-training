@@ -68,6 +68,6 @@ This workshop is designed to provide both **conceptual understanding** and **pra
 
 ## 🏷️ **Affiliations**
 <p align="center">
-  <img src="S1.5: CIFAR10 Image Classification using kNN/images/logo.png" alt="Logo" width="200"/> &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="S1.5: CIFAR10 Image Classification using kNN/images/logo2.png" alt="Logo" width="200"/>
+  <img src="images/logo.png" alt="Logo" width="200"/> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="images/logo2.png" alt="Logo" width="200"/>
 </p>
