@@ -13,14 +13,16 @@ This workshop is designed to provide both **conceptual understanding** and **pra
 ✅ **Famous Neural Network Architectures**  
 - Artificial Neural Network (ANN)  
 - Convolutional Neural Network (CNN)  
-- Recurrent Neural Network (RNN)  
+- Recurrent Neural Network (RNN)
+- CLIP
 
 ✅ **Deep Learning Models**  
 - YOLO  
 - GoogleNet  
 - MobileNet  
 - ResNet  
-- GANs (Generative Adversarial Networks)  
+- GANs (Generative Adversarial Networks)
+- CLIP Benchmark on MSCOCO Test Split
 
 ✅ **Hands-on Training**  
 - Train a deep learning model from scratch  
